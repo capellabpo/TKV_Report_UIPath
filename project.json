@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.20.2]",
+    "UiPath.Form.Activities": "[23.4.5]",
     "UiPath.Mail.Activities": "[1.20.0]",
     "UiPath.System.Activities": "[23.4.3]",
     "UiPath.Testing.Activities": "[23.4.1]",
@@ -13,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.4.2.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -56,6 +57,8 @@
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
+  "publishData": {
+    "iconUrl": ".package/642e24f1bdb82235f450adee_icon.png"
+  },
   "targetFramework": "Windows"
 }
